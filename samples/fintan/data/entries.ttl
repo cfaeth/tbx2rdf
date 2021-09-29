@@ -1,0 +1,39 @@
+@prefix cc:    <http://creativecommons.org/ns#> .
+@prefix :      <http://tbx2rdf.lider-project.eu/data/iate/testlocalnamespace/> .
+@prefix void:  <http://rdfs.org/ns/void#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix tbx:   <http://tbx2rdf.lider-project.eu/tbx#> .
+@prefix decomp: <http://www.w3.org/ns/lemon/decomp#> .
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ontolex: <http://www.w3.org/ns/lemon/ontolex#> .
+@prefix ldr:   <http://purl.oclc.org/NET/ldr/ns#> .
+@prefix odrl:  <http://www.w3.org/ns/odrl/2/> .
+@prefix dcat:  <http://www.w3.org/ns/dcat#> .
+@prefix prov:  <http://www.w3.org/ns/prov#> .
+
+<http://tbx2rdf.lider-project.eu/data/iate/testlocalnamespace/Zust%C3%A4ndigkeit+der+Mitgliedstaaten-de#Sense>
+        a                             ontolex:LexicalSense ;
+        ontolex:isLexicalizedSenseOf  :IATE-84 .
+
+<http://tbx2rdf.lider-project.eu/data/iate/testlocalnamespace/Zust%C3%A4ndigkeit+der+Mitgliedstaaten-de#CanonicalForm>
+        ontolex:writtenRep  "Zuständigkeit der Mitgliedstaaten"@de .
+
+<http://tbx2rdf.lider-project.eu/data/iate/testlocalnamespace/Zust%C3%A4ndigkeit+der+Mitgliedstaaten-de>
+        a                      ontolex:LexicalEntry ;
+        dct:language           <http://www.lexvo.org/id/iso639-3/ger/deu> ;
+        tbx:reliabilityCode    3 ;
+        <http://www.lexinfo.net/ontology/2.0/lexinfo#termType>
+                <http://www.lexinfo.net/ontology/2.0/lexinfo#fullForm> ;
+        <http://www.w3.org/ns/lemon/lime#language>
+                "de" ;
+        ontolex:canonicalForm  <http://tbx2rdf.lider-project.eu/data/iate/testlocalnamespace/Zust%C3%A4ndigkeit+der+Mitgliedstaaten-de#CanonicalForm> ;
+        ontolex:sense          <http://tbx2rdf.lider-project.eu/data/iate/testlocalnamespace/Zust%C3%A4ndigkeit+der+Mitgliedstaaten-de#Sense> .
+
+:IATE-84  a               ontolex:LexicalConcept ;
+        tbx:subjectField  <http://tbx2rdf.lider-project.eu/data/iate/subjectField/1011> .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1011>
+        rdfs:label  "European Union law" .
+##TEST#OUTPUT##

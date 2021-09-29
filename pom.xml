@@ -11,6 +11,8 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<maven.compiler.source>1.8</maven.compiler.source>
+		<maven.compiler.target>1.8</maven.compiler.target>
 	</properties>
 
 	<repositories>
@@ -67,6 +69,17 @@
 			<version>1.2.9</version>
 			<scope>system</scope>
 			<systemPath>${project.basedir}/doc/reference/TBX-resources/tbxcheck-1.2.9.jar</systemPath>
+		</dependency>
+		<dependency>
+			<groupId>org.acoli.fintan</groupId>
+			<artifactId>fintan-core</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+			<exclusions>
+				<exclusion>
+					<groupId>org.apache.jena</groupId>
+					<artifactId>*</artifactId>
+				</exclusion>
+			</exclusions>
 		</dependency>
 
 	</dependencies>

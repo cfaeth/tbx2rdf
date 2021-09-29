@@ -1,0 +1,17 @@
+<http://tbx2rdf.lider-project.eu/data/iate/testlocalnamespace/>
+        a       <http://tbx2rdf.lider-project.eu/tbx#MartifHeader> , <http://www.w3.org/ns/dcat#Dataset> ;
+        <http://creativecommons.org/ns#attributionName>
+                "Download IATE, European Union, 2014" ;
+        <http://purl.org/dc/elements/1.1/source>
+                "This is an excerpt of a TBX file downloaded from the IATE website. Address any enquiries to iate@cdt.europa.eu." ;
+        <http://purl.org/dc/terms/rights>
+                <http://iate.europa.eu/copyright.html> ;
+        <http://purl.org/dc/terms/source>
+                <http://iate.europa.eu/> ;
+        <http://purl.org/dc/terms/type>
+                "TBX-Default" ;
+        <http://tbx2rdf.lider-project.eu/tbx#encodingDesc>
+                "<p type=\"XCSURI\">TBXXCS.xcs</p>"^^<http://www.w3.org/1999/02/22-rdf-syntax-ns##XMLLiteral> ;
+        <http://tbx2rdf.lider-project.eu/tbx#sourceDesc>
+                "<sourceDesc><p>This is an excerpt of a TBX file downloaded from the IATE website. Address any enquiries to iate@cdt.europa.eu.</p></sourceDesc>"^^<http://www.w3.org/1999/02/22-rdf-syntax-ns##XMLLiteral> .
+##TEST#OUTPUT##

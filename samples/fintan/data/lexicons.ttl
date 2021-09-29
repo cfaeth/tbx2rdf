@@ -1,0 +1,11 @@
+<http://tbx2rdf.lider-project.eu/data/iate/testlocalnamespace/de>
+        a       <http://www.w3.org/ns/lemon/lime#Lexicon> ;
+        <http://purl.org/dc/terms/language>
+                <http://www.lexvo.org/id/iso639-3/ger/deu> ;
+        <http://www.w3.org/TR/void/rootResource>
+                <http://tbx2rdf.lider-project.eu/data/iate/testlocalnamespace/> ;
+        <http://www.w3.org/ns/lemon/lime#entry>
+                <http://tbx2rdf.lider-project.eu/data/iate/testlocalnamespace/Zust%C3%A4ndigkeit+der+Mitgliedstaaten-de> ;
+        <http://www.w3.org/ns/lemon/lime#language>
+                "de" .
+##TEST#OUTPUT##

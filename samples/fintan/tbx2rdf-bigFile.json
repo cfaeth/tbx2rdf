@@ -1,0 +1,60 @@
+{
+"input" : "samples/test1.tbx"
+, "output" : "samples/fintan/data/entries.ttl"
+, "pipeline" : [
+	{
+	  "componentInstance" : "tbx2rdf",
+	  "class" : "TBX2RDFStreamTransformer",
+	  "namespace" : "http://tbx2rdf.lider-project.eu/data/iate/testlocalnamespace/",
+	  "mappings" : "mappings.default",
+	  "lenient" : "false",
+	  "bigFile" : "true",
+	  "cachePath" : null
+	},
+	{ 
+      "componentInstance" : "ttlWriter",
+	  "class" : "RDFStreamWriter",
+	  "lang" : "ttl",
+	  "delimiter" : "##TEST#OUTPUT##"
+	}
+  ]
+, "streams" : [
+    {
+    	"readsFromInstance" : "tbx2rdf",
+    	"readsFromInstanceGraph" : "http://martifHeader",
+    	"writesToInstance" : "ttlWriter",
+    	"writesToInstanceGraph" : "http://martifHeader"
+    },
+    {
+    	"readsFromInstance" : "ttlWriter",
+    	"readsFromInstanceGraph" : "http://martifHeader",
+    	"writesToDestination" : "samples/fintan/data/martifHeader.ttl"
+    },
+    
+    
+    {
+    	"readsFromInstance" : "tbx2rdf",
+    	"readsFromInstanceGraph" : "http://subjectFields",
+    	"writesToInstance" : "ttlWriter",
+    	"writesToInstanceGraph" : "http://subjectFields"
+    },
+    {
+    	"readsFromInstance" : "ttlWriter",
+    	"readsFromInstanceGraph" : "http://subjectFields",
+    	"writesToDestination" : "samples/fintan/data/subjectFields.ttl"
+    },
+    
+    
+    {
+    	"readsFromInstance" : "tbx2rdf",
+    	"readsFromInstanceGraph" : "http://lexicons",
+    	"writesToInstance" : "ttlWriter",
+    	"writesToInstanceGraph" : "http://lexicons"
+    },
+    {
+    	"readsFromInstance" : "ttlWriter",
+    	"readsFromInstanceGraph" : "http://lexicons",
+    	"writesToDestination" : "samples/fintan/data/lexicons.ttl"
+    }
+  ]
+}

@@ -1,0 +1,3340 @@
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6621002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nuclear energy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/806>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "International affairs" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/12>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LAW" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2806004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Family planning" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2431>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Insurance" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6811003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chemical industry" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4816001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Land transport" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7626>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Non-governmental organisations" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/411002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Political party" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2026001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Consumer" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5216>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Deterioration of the environment" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1206002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Source of law" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5211001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Climate" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2841>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Health" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7226005>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Oceania" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/436001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Administrative law" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6031001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Agri-foodstuffs" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2441004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Implementation of the budget" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2811002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Migration" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/3226003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Communications policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5626>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Means of agricultural production" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7236009>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "OAS countries" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/3216>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Organisation of teaching" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2406004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Monetary relations" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6411003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Materials technology" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4416001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Organisation of work" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2836001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Leave on social grounds" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7231003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Andean Group countries" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6006005>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Oleaginous plant" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/816004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "International security" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2846005>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Housing policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2411002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Monetary policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5616003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Agricultural real estate" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1216>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Criminal law" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7211>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Regions of EU Member States" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/3231002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Information policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1616001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Economic region" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2006004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Import policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4016001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Organisation" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/821002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Arms policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2436001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Budget policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1626>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "National accounts" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7621>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "World organisations" , "Intergovernmental organisations" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5621001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cultivation system" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/416004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Majority voting" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5211>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Natural environment" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6036002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Food technology" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2816003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Geographical distribution of the population" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2011002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "EU customs procedure" , "Community customs procedure" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5216003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pollution" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7231016>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "LAES countries" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1216001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Criminal law" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2446006>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tax system" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5621>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cultivation of agricultural land" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6821003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mechanical equipment" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/436>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Executive power and public service" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7606002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "United Nations system" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7211006>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Regions of Germany" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/421002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Interparliamentary relations" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7236004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Council of Europe countries" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5631006>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Livestock farming" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2036001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Distributive trades" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/3211>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Teaching" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/3211004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Teaching" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7211020>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Regions of Slovakia" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6846002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Miscellaneous industries" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/52>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ENVIRONMENT" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4031004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Restrictive trade practice" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2416003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Credit policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2451004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Prices" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2821002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Social situation" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/20>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "TRADE" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/3236003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Data-processing law" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/3606001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Applied sciences" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1211>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Civil law" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6406>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Production" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7206002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Europe" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7241003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Netherlands OCT" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5626002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Means of agricultural production" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1621>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Economic structure" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4806003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transport price" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1006003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "EU institution" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2421002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Free movement of capital" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4406>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Employment" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7211019>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Regions of Poland" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1231005>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Public international law" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/3206001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Education policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1626001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Accounting system" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7231011>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CACM countries" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4811001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Destination of transport" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2446001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fiscal policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/431>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Politics and public safety" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1011001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "EU act" , "Community act" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4816>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Land transport" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7211001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Regions and communities of Belgium" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5631001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Agricultural product" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2406>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Monetary relations" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4406003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Termination of employment" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2826003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Social policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2021002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Trade relations" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7221005>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Southern Africa" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5641005>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fishing grounds" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6606001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Energy industry" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1226001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Legal profession" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2816>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Demography and population" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6831003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Public works" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1021006>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "EU financing" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/431002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Politics" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4411001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Labour force" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7616002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Afro-Asian organisations" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4006003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Business policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "POLITICS" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2831002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cultural policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6811>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chemistry" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1236006>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Social rights" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5611003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Regulation of agricultural production" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7231024>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Visegrad countries" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/406006>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "State" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7211014>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Regions of the United Kingdom" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2841006>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pharmaceutical industry" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7236012>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "WEU countries" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1016>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "European construction" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6036>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Food technology" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5206005>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Water management" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1016002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Enlargement of the Union" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4011001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Branch of activity" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7216002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Caribbean Islands" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6621004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nuclear power station" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5636002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Forestry economics" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/60>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "AGRI-FOODSTUFFS" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1611002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Economic cycle" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4811>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Organisation of transport" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2026003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Goods and services" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5211003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Natural resources" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/3216001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Organisation of teaching" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7226007>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "South-East Asia" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/436003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Executive body" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/806001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "International affairs" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4821001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Inland waterway transport" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2811>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Migration" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/3226005>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Means of communication" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1021001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Community budget" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6411005>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Technology" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1211002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ownership" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4416003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Working conditions" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2836003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Welfare" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2036>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Distributive trades" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6841002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Textile industry" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2031002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Marketing" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7231005>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Arab Common Market countries" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6616001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Hydrocarbon" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7626001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Non-governmental organisation" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6006007>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Textile plant" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/816006>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "War victim" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1236001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Anti-discriminatory measure" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2846007>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Town planning" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6806002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Industrial production" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/406001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Political ideology" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2446>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Taxation" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5616005>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Type of tenure" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4421001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pay policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2841001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Health care profession" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1011>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "European Union law" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6031>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Agri-foodstuffs" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1616003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Regional policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2006006>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Public contract" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/821004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Military equipment" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2436003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Public finance" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2806001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Artificial reproductive techniques" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5621003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Land use" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/416006>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Parliamentary seat" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6616>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Oil industry" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6406002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Production" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4826002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Space transport" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4031>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Competition" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2011004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Customs tariff" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4021001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Financial management" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7226002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Central Asia" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2441001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Budget financing" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1216003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Law relating to prisons" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7231018>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mercosur countries" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1621002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Economic system" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6821005>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pressure equipment" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7211008>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Regions of Ireland" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/421004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Parliament" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7236006>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "GCC countries" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2406001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Balance of payments" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/406>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Political framework" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2031>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Marketing" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7226>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Asia and Oceania" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7211022>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Regions of the Czech Republic" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6006002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fodder plant" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4426002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Labour relations" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/816001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Foreign policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2821004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sociocultural group" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2846002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Construction policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/816>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "International balance" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/3236005>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Information technology industry" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/3606003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Life sciences" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2441>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Budget" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1221002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Legal action" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2006001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Commercial law" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7206004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Northern Europe" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/3611001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Behavioural sciences" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6816002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Metallurgical industry" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1006005>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Institutional structure" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/416001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Election" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6611>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Coal and mining industries" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6011001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animal product" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4026002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Management accounting" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5636>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Forestry" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/3206003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Education" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/3226>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Communications" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1626003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "National accounts" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4811003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mode of transport" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7231013>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CMEA countries" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2446003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tax on capital" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1011003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "EU legal system" , "Community legal system" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7211003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Regions of Denmark" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7236001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Anzus countries" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5631003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animal nutrition" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4406005>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vocational training" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/3211001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Educational institution" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6416002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Research" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1226>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Organisation of the legal system" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1631001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Economic analysis" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7221>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Africa" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4031001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Competition law" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2451001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Farm prices" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/811>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cooperation policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/431004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Public safety" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4411003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Occupational status" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7616004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Arab organisation" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6611001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Coal industry" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4006005>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Company structure" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6016002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fats" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2831004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Religion" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5631>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Agricultural activity" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7211016>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Regions of Hungary" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1231002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "International labour law" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/3221>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Documentation" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/48>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "TRANSPORT" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6826001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Electrical engineering" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1016004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "European Union" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4011003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Type of business" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2016001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Supply" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7216004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "North America" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/16>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ECONOMICS" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6006>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Plant product" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1221>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Justice" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5211005>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Wildlife" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/3216003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Schoolwork" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6416>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Research and intellectual property" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7221002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Central Africa" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5641002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fisheries policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4006>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Business organisation" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/436005>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Regional and local authorities" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/806003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "International instrument" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4821003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ports policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1021003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "EU budget" , "Community financing" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5606002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Agricultural policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1631>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Economic analysis" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6826>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Electronics and electrical engineering" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/3221001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Document" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4416>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Organisation of work and working conditions" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7231007>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Benelux countries" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/811001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aid policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6616003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Petrochemicals" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2006>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Trade policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6006009>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vegetable" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1606001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Economic planning" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1236003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Human rights" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6806004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Technical profession" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7231021>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "OECD countries" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/406003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Political philosophy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4826>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Air and space transport" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4421003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Remuneration of work" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6026001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Foodstuff" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7211011>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Regions of Spain" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2841003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Illness" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2416>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Financial institutions and credit" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5206002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Environmental protection" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6621001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Electrical industry" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2806003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Family law" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6811002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chemical element" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/411001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Party organisation" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2826>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Social affairs" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/416008>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Voting method" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1206001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Legal science" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6411>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Technology and technical regulations" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6836001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Wood industry" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4021003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Management techniques" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7226004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Middle East" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2441003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Budgetary procedure" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2811001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Internal migration" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1216005>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Penalty" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/3226002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Communications industry" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7236008>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nordic Council countries" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6821>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mechanical engineering" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2406003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "International finance" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6411002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Industrial manufacturing" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4411>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Labour market" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7231002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ACP countries" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6006004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Industrial plant" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/816003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "International issue" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2846004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Housing" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/24>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "FINANCE" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/3606005>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Space science" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2411001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Exchange policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4821>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Maritime and inland waterway transport" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5616002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Agricultural performance" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1221004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ruling" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2411>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Monetary economics" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/3231001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Information" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7606>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "United Nations" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7206006>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Western Europe" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2006003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Export policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/821001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Armed forces" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1006007>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "EU office or agency" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2821>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Social framework" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/416003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Electoral system" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6036001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Food additive" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2816002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Demography" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2011001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Common tariff policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5606>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Agricultural policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5216002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nuisance" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7231015>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "EU country" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2446005>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tax on income" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6821002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mechanical engineering" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7211005>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Regions of France" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/421001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Composition of parliament" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7236003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CIS countries" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5631005>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Crop production" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7606001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "UN specialist institution" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/3211003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Level of education" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6416004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Space policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1631003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Statistics" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/3606>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Natural and applied sciences" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6846001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Ceramics" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1021>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "EU finance" , "Community finance" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4031003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Restriction on competition" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2416002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Credit" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2451003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Price fluctuation" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2821001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Social analysis" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/3236002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Computer systems" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7616006>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Latin American organisation" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1606>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Economic policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6626>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Soft energy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7206001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Eastern Europe" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6611003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mining product" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7241002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "French overseas collectivity" , "French Overseas Territories" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5626001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Livestock" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/8>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "INTERNATIONAL RELATIONS" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6016004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Protein products" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4806002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transport policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1006002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "EU body" , "Community body (established by the Treaties)" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2421001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Financial market" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7211018>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Regions of Lithuania" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1231004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Private international law" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/416>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Electoral procedure and voting" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2016003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Trading operation" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/426002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Parliamentary procedure" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6021002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sugar" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7236>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Political geography" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7231010>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Caricom countries" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/32>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "EDUCATION AND COMMUNICATIONS" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4406002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Employment structure" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2826002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Social life" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2451>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Prices" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7221004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "North Africa" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2021001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "International trade" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5641004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fishery resources" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/806005>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "National independence" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6831002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Building services" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1021005>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Financing of the EU budget" , "Financing of the Community budget" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/431001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Institutional activity" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7616001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "African organisation" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/3221003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Information service" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6621>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Electrical and nuclear industries" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7231009>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CAEEU countries" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4006002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Business activity" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/811003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Humanitarian aid" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/3236>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Information technology and data processing" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2426002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Investment" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2831001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Arts" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1236005>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rights of the individual" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1606003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Economic support" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5611002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Policy on agricultural structures" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7231023>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Third countries in the Mediterranean" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/406005>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Political system" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6026003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Processed foodstuff" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7211013>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Regions of the Netherlands" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2841005>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nutrition" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7236011>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Warsaw Pact countries" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/411>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Political Parties" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5206004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Waste management" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1016001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Deepening of the European Union" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7216001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "America" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6621003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Nuclear industry" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1236>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Rights and freedoms" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5636001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Forest" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7231>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Economic geography" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2806005>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Marital status" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1611001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Economic conditions" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6811004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Special chemicals" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/411003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Political tendency" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2026002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Consumption" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/821>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Defence" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2431001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Insurance" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5211002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Geophysical environment" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7226006>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "South Asia" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/436002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Administrative structures" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6031002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Food industry" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/3226004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Communications systems" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6411004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Technical regulations" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1211001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Civil law" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4416002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Work" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5641>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fisheries" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2836002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Social security" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6841001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Leather industry" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7231004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "APEC countries" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2031001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Commercial transaction" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/3231>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Information and information processing" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6006006>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Root crop" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/816005>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Peace" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2846006>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Property leasing" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6806001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Industrial policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6016>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Processed agricultural produce" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2411003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Money market" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/72>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "GEOGRAPHY" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5616004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Farming system" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/40>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "BUSINESS AND COMPETITION" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/3231003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Information processing" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1616002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "European Region" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2006005>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Market" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1231>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "International law" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/821003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Defence policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2436002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Public debt" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4016>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Legal form of organisations" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5621002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cultivation techniques" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/416005>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Organisation of elections" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6406001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Production policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2816004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Population dynamics" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4826001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Air transport" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6836>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Wood industry" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2011003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Customs regulations" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5216004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Waste" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7226001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Asia" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4426>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Labour law and labour relations" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1216002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Criminal liability" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7231017>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Lafta countries" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1621001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Economic sector" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6821004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Precision engineering" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2016>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Trade" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7211007>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Regions of Greece" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/421003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Member of Parliament" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7236005>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Former socialist countries" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2036002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Storage" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7606003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "UNO" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/3211005>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vocational education" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7211021>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Regions of Slovenia" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6006001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cereals" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2426>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Financing and investment" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2416004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Financial institution" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4426001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Labour law" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2451005>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Prices policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2821003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Social structure" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2846001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Built-up area" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6011>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animal product" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/3236004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Dataprocessing" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/3606002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Earth sciences" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7611001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "European organisation" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1221001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Access to the courts" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2836>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Social protection" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7206003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Former USSR" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7241004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "United Kingdom OCT" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4806004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transport regulations" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4011>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Business classification" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6816001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Iron and steel industry" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1006004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "European civil service" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4026001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Accounting" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/3206002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Teaching method" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6831>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Building and public works" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1626002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Income" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4421>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Personnel management and staff remuneration" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4811002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Means of transport" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7231012>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CEAO countries" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2446002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tax" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/66>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "ENERGY" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2011>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tariff policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1011002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "EU law" , "Community law" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7206>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Europe" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7211002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Regions of Austria" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5631002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animal health" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4406004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Unemployment" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6416001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Intellectual property" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2826004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Social problem" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2021003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Trade restriction" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7221006>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "West Africa" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6606002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Energy policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5641006>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fishing industry" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2421>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Free movement of capital" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7616>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Extra-European organisations" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1226002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Legal system" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5206>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Environmental policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/431003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Public opinion" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4411002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Labour market" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7616003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "American organisation" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2831>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Culture and religion" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4006004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Company law" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5616>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Farming systems" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6016001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Essential oil" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2831003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Culture" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/3206>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Education" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1236007>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Citizen's duties" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7231025>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "WAEMU countries" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7621001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "World organisation" , "Intergovernmental organisation" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7211015>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Regions of Estonia" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1231001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "International economic law" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5206006>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Climate change policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1016003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "EU relations" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4011002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Size of business" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7216003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Latin America" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5636003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Forestry policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1611003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Economic development" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1206>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Sources and branches of the law" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5211004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Physical environment" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/3216002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "School life" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7221001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Africa" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5641001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Aquaculture" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1616>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Regions and regional policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7611>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "European organisations" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/436004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Public administration" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/806002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "International agreement" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4821002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Maritime transport" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1021002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "EU expenditure" , "Community expenditure" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5606001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Common agricultural policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6411006>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Biotechnology" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2031003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Preparation for market" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7231006>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Asean countries" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5611>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Agricultural structures and production" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/426>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Parliamentary proceedings" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6616002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Oil industry" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/0>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "NO SUBJECT DOMAIN" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6006008>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tropical plant" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1236002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Economic rights" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6806003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Industrial structures" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/28>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "SOCIAL QUESTIONS" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7231020>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "OCAS countries" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/406002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Political institution" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5616006>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Working population engaged in agriculture" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4421002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Personnel administration" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7211010>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Regions of Portugal" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2841002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Health policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5206001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Environmental policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/3611>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Humanities" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/10>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "EUROPEAN UNION" , "EUROPEAN COMMUNITIES" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2806002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Family" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6811001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Chemical compound" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/416007>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Vote" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2011005>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tariff policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4021002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Management" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1611>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Economic growth" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7226003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Far East" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2441002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Budgetary expenditure" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6806>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Industrial structures and policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1216004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Offence" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7231019>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "NAFTA countries" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6821006>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Thermal equipment" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/3226001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Audiovisual equipment" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1621003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Economy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7211009>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Regions of Italy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/421005>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Powers of parliament" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7236007>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "NATO countries" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2406002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "European Monetary System" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6411001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Advanced materials" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7231001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "AAMS countries" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/421>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Parliament" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4806>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Transport policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6006003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fruit" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/816002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "International conflict" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4426003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Organisation of professions" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2846003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Habitat" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7241>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Overseas countries and territories" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/3606004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Physical sciences" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5616001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Agricultural holding" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6626001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Soft energy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1221003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Judicial proceedings" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7206005>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Southern Europe" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2006002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Common commercial policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2806>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Family" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/3611002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Social sciences" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6816003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Metals" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1006006>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Operation of the Institutions" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/416002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Electoral law" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2816001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Composition of the population" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5216001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Degradation of the environment" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7231014>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "EFTA countries" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4811004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Organisation of transport" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2446004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Tax on consumption" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6821001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Machinery" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/68>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "INDUSTRY" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1011004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "European treaties" , "EC Treaty" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7211004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Regions of Finland" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7236002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Arab League countries" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5631004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Animal production" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1006>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "EU institutions and European civil service" , "Community institutions and European civil service" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/36>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "SCIENCE" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6026>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Foodstuff" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/3211002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "General education" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6416003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Research policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1631002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Economic forecasting" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4031002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Competition policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2416001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Banking" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2451002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Market prices" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/3236001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Computer system" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/431005>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Trends of opinion" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4411004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Socioprofessional category" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4026>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Accounting" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7616005>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Asian organisation" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6611002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Mining industry" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7241001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "French overseas department and region" , "French Overseas Departments" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4006006>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Economic concentration" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6846>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Miscellaneous industries" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6016003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Milk product" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4806001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Traffic regulations" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1006001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Community body" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2026>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Consumption" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7211017>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Regions of Latvia" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1231003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "International law" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6826002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Electronics industry" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1016005>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "European Communities" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2016002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Supply and demand" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/426001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Legislative procedure" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6021001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Beverage" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2436>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Public finance and budget policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6021>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Beverages and sugar" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4406001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Employment policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2826001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Leisure" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/3216004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Teaching materials" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7221003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "East Africa" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5641003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Fisheries structure" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2846>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Construction and town planning" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/806004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "International organisation" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6831001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Building industry" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6606>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Energy policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1021004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Drawing up of the EU budget" , "Drawing up of the Community budget" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4021>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Management" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/3221002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Documentation" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6841>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Leather and textile industries" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7231008>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "CACM countries" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/4006001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Administrative personnel" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/811002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Cooperation policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2426001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Financing" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1236004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Political rights" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/1606002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Economic policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5611001>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Agricultural production policy" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7231022>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "OPEC countries" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/76>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "INTERNATIONAL ORGANISATIONS" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/406004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Political power" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2021>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "International trade" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7211012>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Regions of Sweden" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/6026002>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Processed food product" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7216>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "America" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/2841004>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Medical science" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/7236010>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "United Arab Emirates countries" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/44>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "EMPLOYMENT AND WORKING CONDITIONS" .
+
+<http://tbx2rdf.lider-project.eu/data/iate/subjectField/5206003>
+        a       <http://tbx2rdf.lider-project.eu/tbx#SubjectField> ;
+        <http://www.w3.org/2000/01/rdf-schema#label>
+                "Pollution control measures" .
+##TEST#OUTPUT##
