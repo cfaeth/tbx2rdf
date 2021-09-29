@@ -13,4 +13,4 @@ cd fintan-core
 mvn --batch-mode --quiet -DskipTests clean install
 
 cd $HOME
-mvn --batch-mode clean install
+mvn --batch-mode -DskipTests clean install
