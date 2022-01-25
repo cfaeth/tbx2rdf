@@ -62,11 +62,10 @@
 			<version>1.0</version>
 		</dependency>
 		<dependency>
-			<groupId>tbxcheck-1.2.9</groupId>
+			<!-- https://sourceforge.net/projects/tbxutil/-->
+			<groupId>org.ttt.salt</groupId>
 			<artifactId>tbxcheck</artifactId>
 			<version>1.2.9</version>
-			<scope>system</scope>
-			<systemPath>${project.basedir}/doc/reference/TBX-resources/tbxcheck-1.2.9.jar</systemPath>
 		</dependency>
 
 	</dependencies>
@@ -212,8 +211,6 @@
 					</execution>
 				</executions>
 			</plugin>
-
 		</plugins>
-
 	</build>
 </project>
